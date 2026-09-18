@@ -1,0 +1,501 @@
+student_id,study_level,video_completion_pct,lecture_duration_min,pause_count,rewatch_count,quiz_attempts,quiz_score_pct,notes_taken,questions_asked,login_delay_min,sessions_per_week,screen_time_hours,completion_ratio,quiz_efficiency,engagement_score,performance_category,next_quiz_score,reference_behavior_group
+S1001,Medium,79.7,45.5,1,0,4,49.0,No,1,3.2,4,4.6,0.797,12.24,66.9,Medium,56.2,Quiz-focused learners
+S1002,Very Good,91.1,44.6,5,1,2,61.2,Yes,0,3.4,5,6.2,0.911,30.62,73.9,Medium,80.8,Complete learners
+S1003,Good,90.7,22.7,0,5,1,43.6,No,0,4.0,6,3.6,0.907,43.61,80.5,Good,47.1,Rewatch learners
+S1004,Good,94.9,40.7,7,1,1,69.7,Sometimes,1,11.8,3,4.4,0.949,69.7,42.1,Low,74.8,Mixed learners
+S1005,Low,71.6,26.0,5,2,2,39.7,Sometimes,2,15.2,1,4.5,0.716,19.86,13.0,Poor,45.5,Last-minute learners
+S1006,Low,69.1,49.5,1,3,2,63.1,Sometimes,0,5.1,7,5.7,0.691,31.55,81.0,Good,61.0,Mixed learners
+S1007,Poor,63.5,40.5,4,4,2,45.9,No,1,14.4,6,5.6,0.635,22.97,49.7,Poor,57.9,Mixed learners
+S1008,Very Good,100.0,47.2,3,2,1,63.3,Yes,3,8.9,1,4.1,1.0,63.31,52.4,Low,72.2,Mixed learners
+S1009,Good,97.1,21.7,6,1,2,58.7,No,1,7.1,3,4.6,0.971,29.33,51.4,Low,70.3,Complete learners
+S1010,Good,91.2,23.4,9,5,3,58.7,Sometimes,3,6.5,8,3.8,0.912,19.58,96.1,Very Good,62.4,Rewatch learners
+S1011,Poor,53.7,48.7,0,6,3,55.5,No,3,13.2,7,1.8,0.537,18.5,74.4,Good,67.5,Rewatch learners
+S1012,Very Good,95.2,22.9,5,4,2,42.9,No,2,10.3,6,5.0,0.952,21.46,71.8,Medium,60.5,Mixed learners
+S1013,Very Good,100.0,22.9,5,3,2,75.2,Yes,1,23.9,4,7.9,1.0,37.61,35.7,Poor,85.8,Last-minute learners
+S1014,Low,58.5,20.5,7,1,1,49.0,No,1,2.0,5,2.9,0.585,49.01,60.7,Low,58.2,Mixed learners
+S1015,Low,67.9,58.3,6,1,2,40.9,Yes,1,11.6,4,3.1,0.679,20.46,40.7,Poor,49.5,Mixed learners
+S1016,Low,61.9,49.5,3,4,1,39.2,Sometimes,1,4.3,7,2.9,0.619,39.23,77.4,Good,57.4,Mixed learners
+S1017,Medium,75.2,34.1,4,3,3,67.3,No,0,1.9,3,5.8,0.752,22.42,54.0,Low,63.6,Mixed learners
+S1018,Medium,85.2,31.9,3,5,1,50.8,Yes,2,7.9,3,5.3,0.852,50.79,57.6,Medium,52.1,Rewatch learners
+S1019,Medium,76.5,34.0,8,4,2,45.2,No,1,9.0,7,4.2,0.765,22.61,66.9,Low,67.7,Mixed learners
+S1020,Low,65.4,51.0,5,0,3,58.5,Yes,3,28.4,4,2.8,0.654,19.51,21.2,Poor,58.9,Mixed learners
+S1021,Good,75.1,46.5,11,5,3,56.5,No,2,6.7,7,4.7,0.751,18.84,73.7,Medium,63.3,Rewatch learners
+S1022,Low,71.0,27.4,5,1,6,44.4,Yes,2,0.1,3,1.7,0.71,7.41,64.0,Medium,52.7,Quiz-focused learners
+S1023,Low,70.2,27.0,3,2,3,53.3,No,0,9.9,4,4.8,0.702,17.77,42.9,Poor,59.7,Mixed learners
+S1024,Medium,92.3,23.9,0,3,1,53.3,Sometimes,2,0.0,3,6.1,0.923,53.33,77.0,Good,62.7,Mixed learners
+S1025,Medium,72.5,46.4,0,6,2,61.4,Yes,1,7.4,5,2.2,0.725,30.72,72.0,Good,71.3,Rewatch learners
+S1026,Good,87.8,50.6,0,9,1,68.0,Yes,3,8.1,2,1.7,0.878,67.98,63.1,Low,64.0,Rewatch learners
+S1027,Low,67.0,30.6,6,4,2,54.4,Yes,2,13.6,4,7.3,0.67,27.2,44.2,Poor,57.3,Mixed learners
+S1028,Medium,87.6,20.8,7,2,2,62.3,Yes,0,14.8,2,3.4,0.876,31.16,23.0,Poor,67.0,Mixed learners
+S1029,Good,85.2,23.3,0,4,4,72.4,Yes,4,4.5,6,6.5,0.852,18.11,100.0,Very Good,89.9,Quiz-focused learners
+S1030,Poor,57.2,58.7,8,4,2,45.8,No,2,6.9,6,4.2,0.572,22.88,61.3,Low,53.8,Mixed learners
+S1031,Good,90.9,31.8,4,2,2,51.4,Sometimes,3,2.6,1,4.2,0.909,25.72,53.8,Low,63.0,Mixed learners
+S1032,Low,66.5,50.8,5,6,2,53.5,Sometimes,0,0.1,7,5.3,0.665,26.76,82.3,Good,63.6,Rewatch learners
+S1033,Poor,51.4,45.0,10,3,5,59.8,Sometimes,1,10.2,9,2.9,0.514,11.97,71.6,Medium,63.9,Quiz-focused learners
+S1034,Very Good,95.6,35.3,8,3,2,54.9,Sometimes,2,0.0,5,4.7,0.956,27.44,82.4,Good,67.6,Mixed learners
+S1035,Very Good,100.0,28.2,4,4,5,62.1,Sometimes,2,5.1,3,3.8,1.0,12.42,65.2,Medium,69.3,Quiz-focused learners
+S1036,Good,77.8,24.9,2,3,3,58.3,No,1,1.0,10,2.1,0.778,19.45,100.0,Very Good,78.4,Mixed learners
+S1037,Medium,76.1,44.6,0,4,3,53.8,Yes,1,11.8,2,5.1,0.761,17.93,38.7,Poor,66.3,Mixed learners
+S1038,Poor,49.4,51.0,3,1,3,34.4,No,1,20.6,5,4.0,0.494,11.46,23.4,Poor,45.5,Mixed learners
+S1039,Good,95.6,45.8,4,1,3,72.0,Sometimes,2,0.0,5,4.2,0.956,23.99,91.8,Very Good,84.2,Complete learners
+S1040,Medium,62.8,41.2,2,0,1,66.8,Sometimes,3,0.0,7,2.3,0.628,66.83,100.0,Very Good,64.8,Mixed learners
+S1041,Low,60.5,21.7,5,3,2,48.8,Yes,3,7.1,5,7.4,0.605,24.4,68.2,Medium,55.9,Mixed learners
+S1042,Medium,78.0,58.7,5,4,4,47.9,Yes,1,8.1,4,6.1,0.78,11.97,54.2,Low,57.1,Quiz-focused learners
+S1043,Poor,67.5,51.9,4,3,2,38.0,Sometimes,1,9.5,3,6.2,0.675,19.0,35.2,Poor,48.7,Mixed learners
+S1044,Very Good,93.5,31.7,3,6,1,64.1,No,1,4.9,4,4.0,0.935,64.13,68.3,Medium,69.5,Rewatch learners
+S1045,Low,60.6,59.2,6,2,2,56.1,Sometimes,3,6.6,2,1.4,0.606,28.04,41.2,Poor,56.7,Mixed learners
+S1046,Good,100.0,44.1,6,4,5,68.8,No,3,10.6,5,8.0,1.0,13.76,73.6,Medium,73.2,Quiz-focused learners
+S1047,Medium,63.4,43.3,2,0,4,48.5,Sometimes,2,15.3,3,4.4,0.634,12.13,32.3,Poor,51.9,Quiz-focused learners
+S1048,Medium,57.4,49.9,9,2,2,41.1,Sometimes,1,0.0,2,3.2,0.574,20.56,35.8,Poor,47.3,Mixed learners
+S1049,Medium,78.5,52.5,5,4,4,46.6,No,0,5.4,7,5.3,0.785,11.65,74.5,Medium,52.9,Quiz-focused learners
+S1050,Low,61.0,46.3,5,4,2,54.1,Sometimes,1,9.5,4,6.6,0.61,27.06,42.7,Poor,66.7,Mixed learners
+S1051,Very Good,85.8,25.1,7,2,1,65.9,Yes,1,1.6,2,4.5,0.858,65.93,54.6,Poor,67.6,Mixed learners
+S1052,Good,91.7,33.5,6,2,1,48.9,Yes,1,20.1,4,6.8,0.917,48.88,33.6,Poor,55.3,Last-minute learners
+S1053,Very Good,96.0,57.1,8,0,4,75.9,Sometimes,2,3.6,5,6.4,0.96,18.97,79.7,Good,81.3,Complete learners
+S1054,Very Good,89.5,29.0,6,2,2,64.9,No,3,7.7,1,2.6,0.895,32.43,42.9,Poor,64.7,Mixed learners
+S1055,Good,75.8,34.9,3,4,2,65.3,No,3,11.9,5,3.3,0.758,32.64,66.3,Medium,68.2,Mixed learners
+S1056,Very Good,100.0,37.3,6,4,2,54.3,Sometimes,1,3.9,2,6.2,1.0,27.13,50.1,Low,68.8,Mixed learners
+S1057,Poor,60.2,37.6,2,4,5,36.2,Yes,2,0.0,8,0.5,0.602,7.23,100.0,Very Good,60.7,Quiz-focused learners
+S1058,Low,64.2,44.5,5,3,4,47.7,No,1,5.0,6,4.2,0.642,11.93,67.5,Medium,59.0,Quiz-focused learners
+S1059,Poor,69.8,57.7,5,3,5,55.4,Yes,2,15.2,4,1.9,0.698,11.08,43.6,Poor,64.7,Quiz-focused learners
+S1060,Medium,66.4,29.6,4,1,2,64.3,No,0,5.6,3,3.6,0.664,32.13,42.8,Poor,60.8,Mixed learners
+S1061,Medium,62.8,24.9,5,4,3,53.9,Yes,1,2.1,4,4.0,0.628,17.97,62.1,Low,68.4,Mixed learners
+S1062,Low,59.5,27.9,0,3,1,44.8,Sometimes,0,14.5,6,3.9,0.595,44.82,48.8,Poor,47.1,Mixed learners
+S1063,Good,85.6,55.5,3,3,4,50.3,Yes,1,5.7,4,3.5,0.856,12.58,65.2,Medium,65.1,Quiz-focused learners
+S1064,Medium,76.9,45.8,5,1,1,64.5,Sometimes,1,4.4,4,2.5,0.769,64.47,60.5,Low,66.9,Mixed learners
+S1065,Low,63.1,31.4,5,0,3,40.7,Sometimes,1,9.0,5,8.6,0.631,13.55,49.6,Poor,55.4,Mixed learners
+S1066,Medium,77.8,52.6,2,5,1,68.0,No,0,13.4,3,7.9,0.778,68.05,35.1,Poor,62.6,Rewatch learners
+S1067,Low,55.0,54.5,9,2,2,42.5,No,2,24.7,4,2.4,0.55,21.23,6.9,Poor,39.1,Mixed learners
+S1068,Good,97.6,53.9,2,1,1,76.6,Yes,1,13.8,1,7.3,0.976,76.62,35.9,Poor,77.2,Mixed learners
+S1069,Poor,54.3,56.8,8,4,2,49.9,Yes,3,16.1,6,3.8,0.543,24.94,51.8,Low,60.1,Mixed learners
+S1070,Very Good,100.0,30.1,6,2,2,63.9,Yes,0,4.5,5,4.7,1.0,31.95,73.9,Medium,85.6,Mixed learners
+S1071,Good,88.7,50.2,3,5,2,55.8,Sometimes,1,0.8,3,4.4,0.887,27.89,65.1,Medium,56.9,Rewatch learners
+S1072,Low,68.7,38.4,10,4,4,48.2,Yes,4,8.4,8,3.3,0.687,12.04,89.8,Very Good,71.9,Quiz-focused learners
+S1073,Poor,59.6,53.7,1,4,1,50.2,No,1,8.8,5,6.3,0.596,50.23,56.9,Low,67.3,Mixed learners
+S1074,Good,89.6,49.1,8,0,3,60.9,Sometimes,0,0.5,2,4.7,0.896,20.31,46.6,Low,62.5,Complete learners
+S1075,Good,91.1,51.1,8,5,4,56.3,Sometimes,1,6.8,6,3.6,0.911,14.07,70.6,Good,63.8,Rewatch learners
+S1076,Good,96.6,46.2,3,3,2,62.2,Sometimes,1,10.8,5,2.2,0.966,31.08,65.2,Medium,71.1,Mixed learners
+S1077,Good,87.6,27.1,9,2,2,60.0,Sometimes,2,10.5,5,2.9,0.876,30.02,58.1,Low,69.4,Mixed learners
+S1078,Poor,60.7,41.8,4,3,2,30.3,No,2,11.5,4,1.5,0.607,15.14,40.2,Poor,45.7,Mixed learners
+S1079,Medium,74.3,59.4,6,0,4,57.1,Sometimes,3,10.0,5,4.5,0.743,14.27,63.3,Medium,60.7,Quiz-focused learners
+S1080,Poor,66.5,57.5,6,3,3,42.1,Yes,3,4.5,4,2.3,0.665,14.03,64.8,Medium,61.9,Mixed learners
+S1081,Very Good,88.6,21.7,5,0,2,50.6,Sometimes,2,4.4,6,4.0,0.886,25.32,82.8,Very Good,60.9,Complete learners
+S1082,Good,100.0,26.6,7,0,3,51.5,No,1,0.0,1,7.0,1.0,17.17,47.8,Low,51.6,Complete learners
+S1083,Medium,74.7,25.3,7,0,1,39.3,No,3,20.5,4,6.7,0.747,39.25,29.5,Poor,57.5,Last-minute learners
+S1084,Poor,43.6,49.0,0,5,3,28.8,No,1,8.1,8,4.4,0.436,9.59,73.8,Good,33.5,Rewatch learners
+S1085,Medium,76.0,52.7,9,1,3,48.5,Sometimes,1,6.4,3,4.3,0.76,16.18,39.0,Poor,54.5,Mixed learners
+S1086,Medium,69.6,28.5,0,6,2,66.9,Sometimes,1,1.5,3,7.9,0.696,33.46,63.7,Low,79.3,Rewatch learners
+S1087,Good,92.7,40.2,8,1,1,57.5,Sometimes,1,28.5,4,5.4,0.927,57.52,11.9,Poor,67.4,Last-minute learners
+S1088,Good,80.8,53.6,8,0,1,57.8,Yes,1,0.5,2,3.9,0.808,57.77,51.9,Low,57.4,Complete learners
+S1089,Very Good,90.4,49.3,2,0,3,63.9,Sometimes,0,5.0,1,1.9,0.904,21.3,39.4,Poor,64.0,Complete learners
+S1090,Medium,59.9,41.7,4,5,4,48.0,Yes,3,10.9,4,5.2,0.599,12.0,53.7,Low,55.1,Rewatch learners
+S1091,Poor,51.4,43.6,2,2,2,42.5,No,3,12.2,5,6.0,0.514,21.25,54.1,Low,49.6,Mixed learners
+S1092,Good,66.6,40.3,4,1,3,40.4,Sometimes,3,14.7,4,3.4,0.666,13.47,43.0,Low,53.5,Mixed learners
+S1093,Good,73.3,31.9,4,3,1,64.6,Yes,2,20.7,4,5.0,0.733,64.61,37.3,Poor,63.3,Last-minute learners
+S1094,Good,92.1,42.6,7,4,2,75.9,No,1,11.5,5,3.8,0.921,37.95,58.8,Low,87.8,Mixed learners
+S1095,Good,92.3,47.6,9,5,2,48.1,No,1,0.6,7,4.2,0.923,24.03,88.2,Very Good,69.3,Rewatch learners
+S1096,Medium,78.4,54.9,9,5,1,47.1,Yes,1,6.2,4,0.5,0.784,47.09,52.0,Low,64.1,Rewatch learners
+S1097,Medium,67.3,45.5,3,2,1,48.0,Sometimes,2,10.2,3,4.1,0.673,48.03,42.3,Poor,49.5,Mixed learners
+S1098,Medium,74.6,50.4,4,0,2,45.9,Yes,0,22.5,4,6.2,0.746,22.93,20.3,Poor,65.0,Last-minute learners
+S1099,Poor,55.0,26.4,0,2,3,48.8,No,0,0.0,6,3.4,0.55,16.26,77.0,Good,54.0,Mixed learners
+S1100,Poor,45.7,38.5,3,3,2,34.8,Yes,2,16.4,7,4.6,0.457,17.38,55.6,Low,51.2,Mixed learners
+S1101,Poor,67.0,20.4,8,1,1,67.5,Sometimes,0,9.3,3,3.1,0.67,67.48,30.4,Poor,58.6,Mixed learners
+S1102,Good,93.0,29.9,10,1,1,71.4,No,4,13.9,5,5.1,0.93,71.38,64.1,Low,72.2,Mixed learners
+S1103,Medium,73.2,49.1,1,3,2,54.7,Sometimes,0,7.3,5,4.1,0.732,27.33,60.5,Low,65.5,Mixed learners
+S1104,Medium,75.2,59.7,3,2,3,62.1,No,0,2.1,3,2.8,0.752,20.69,54.0,Low,60.5,Mixed learners
+S1105,Very Good,95.7,24.0,5,3,1,71.9,Sometimes,1,13.3,5,6.9,0.957,71.9,58.9,Low,74.0,Mixed learners
+S1106,Low,48.7,36.1,6,1,2,37.4,No,1,12.6,2,6.2,0.487,18.69,11.3,Poor,35.9,Mixed learners
+S1107,Medium,73.0,52.0,3,2,2,46.3,No,4,14.8,1,3.4,0.73,23.17,28.7,Poor,52.9,Mixed learners
+S1108,Good,80.5,28.2,6,1,4,56.9,Sometimes,1,7.9,5,5.4,0.805,14.22,59.8,Low,62.3,Complete learners
+S1109,Low,57.0,42.2,4,4,2,52.5,No,1,3.8,4,5.5,0.57,26.27,53.9,Low,53.4,Mixed learners
+S1110,Poor,52.8,49.3,5,5,3,44.9,Yes,2,0.0,5,5.7,0.528,14.95,73.9,Good,53.6,Rewatch learners
+S1111,Low,79.4,44.6,7,0,3,43.1,No,1,13.7,4,1.5,0.794,14.37,35.4,Poor,45.9,Mixed learners
+S1112,Low,70.1,27.5,5,1,1,45.1,Sometimes,5,11.0,3,6.3,0.701,45.13,53.1,Low,44.5,Mixed learners
+S1113,Very Good,89.4,34.2,4,0,3,59.7,No,3,1.2,4,3.5,0.894,19.88,81.8,Good,69.3,Complete learners
+S1114,Good,90.6,51.4,5,1,3,60.2,Sometimes,4,4.2,2,3.9,0.906,20.05,63.8,Low,60.6,Complete learners
+S1115,Good,97.2,42.2,5,2,3,79.5,Yes,2,4.7,7,9.2,0.972,26.51,100.0,Very Good,95.2,Mixed learners
+S1116,Very Good,100.0,20.2,4,0,7,53.9,No,1,0.0,2,5.0,1.0,7.7,60.8,Medium,68.5,Complete learners
+S1117,Good,86.5,50.4,4,1,1,63.0,Yes,1,2.3,4,3.8,0.865,62.96,73.3,Medium,75.2,Complete learners
+S1118,Low,59.8,21.4,10,0,5,58.8,No,2,0.1,2,0.5,0.598,11.77,43.6,Poor,63.4,Quiz-focused learners
+S1119,Very Good,99.6,49.8,7,3,2,83.0,Yes,1,5.1,6,7.0,0.996,41.49,87.7,Very Good,90.1,Mixed learners
+S1120,Medium,78.1,28.1,4,3,3,51.9,Sometimes,2,2.8,4,2.1,0.781,17.31,68.1,Medium,63.3,Mixed learners
+S1121,Good,93.2,58.3,7,1,2,65.9,Yes,2,0.0,3,2.7,0.932,32.93,73.3,Good,70.2,Complete learners
+S1122,Very Good,99.1,34.7,4,3,2,69.1,Sometimes,1,22.2,6,3.9,0.991,34.57,51.2,Low,92.0,Last-minute learners
+S1123,Medium,83.4,33.1,9,1,2,59.1,Sometimes,1,16.8,5,7.0,0.834,29.55,39.0,Poor,77.4,Last-minute learners
+S1124,Poor,50.7,26.0,6,2,3,42.0,No,1,2.5,6,5.9,0.507,14.01,65.1,Medium,50.4,Mixed learners
+S1125,Low,75.5,32.2,5,6,1,57.5,No,3,9.9,3,4.2,0.755,57.48,49.6,Low,62.2,Rewatch learners
+S1126,Medium,76.6,55.1,6,5,3,34.2,Yes,1,10.9,2,5.1,0.766,11.4,27.8,Poor,55.6,Rewatch learners
+S1127,Good,100.0,59.9,0,0,2,70.5,Sometimes,2,16.3,5,3.4,1.0,35.23,66.4,Low,78.0,Last-minute learners
+S1128,Very Good,88.5,34.7,2,4,1,60.8,Sometimes,3,2.3,4,4.8,0.885,60.83,82.6,Good,64.7,Mixed learners
+S1129,Poor,68.9,37.9,1,4,2,49.2,Yes,1,15.6,6,4.6,0.689,24.61,58.2,Medium,67.1,Mixed learners
+S1130,Medium,76.6,48.9,5,0,4,70.8,Sometimes,0,4.2,4,6.2,0.766,17.71,57.1,Low,70.3,Quiz-focused learners
+S1131,Medium,69.8,55.4,10,4,2,46.0,Yes,3,0.0,5,6.2,0.698,23.0,77.6,Good,60.2,Mixed learners
+S1132,Low,61.1,43.7,12,6,3,44.3,Yes,2,13.1,1,5.4,0.611,14.76,8.1,Poor,43.5,Rewatch learners
+S1133,Poor,52.4,35.7,7,0,2,59.5,Sometimes,1,17.0,8,3.8,0.524,29.76,54.7,Low,55.9,Mixed learners
+S1134,Medium,78.4,36.5,7,1,3,48.6,Yes,2,26.1,4,5.8,0.784,16.21,20.4,Poor,62.4,Last-minute learners
+S1135,Very Good,98.2,47.8,0,5,3,59.8,No,0,0.0,6,4.3,0.982,19.93,94.3,Good,78.9,Rewatch learners
+S1136,Medium,70.4,20.1,3,3,5,50.5,Sometimes,0,12.9,3,2.6,0.704,10.1,28.5,Poor,53.8,Quiz-focused learners
+S1137,Medium,74.8,44.8,3,4,2,60.4,Sometimes,0,5.1,5,3.8,0.748,30.19,63.5,Low,72.8,Mixed learners
+S1138,Good,100.0,34.2,3,3,3,66.7,No,2,13.5,2,4.7,1.0,22.22,42.9,Poor,67.1,Mixed learners
+S1139,Medium,88.8,51.8,4,3,3,49.6,Yes,0,0.0,5,6.1,0.888,16.54,79.0,Good,61.7,Mixed learners
+S1140,Very Good,97.5,23.7,4,0,4,59.6,Yes,2,0.0,4,4.2,0.975,14.9,86.0,Very Good,72.7,Complete learners
+S1141,Very Good,94.3,43.5,0,5,2,57.6,Sometimes,1,2.6,5,2.3,0.943,28.79,84.4,Very Good,69.5,Rewatch learners
+S1142,Low,66.0,39.2,7,5,3,49.1,Sometimes,1,8.6,6,4.6,0.66,16.35,58.3,Low,62.6,Rewatch learners
+S1143,Medium,79.9,45.7,2,2,2,59.4,Yes,3,3.5,2,4.7,0.799,29.68,64.8,Medium,59.7,Mixed learners
+S1144,Medium,66.8,22.6,6,2,2,53.4,Sometimes,1,12.6,3,4.8,0.668,26.71,28.8,Poor,62.3,Mixed learners
+S1145,Low,62.9,43.2,11,0,3,34.1,Sometimes,1,15.2,5,6.2,0.629,11.37,27.0,Poor,57.5,Mixed learners
+S1146,Poor,41.7,42.5,2,4,3,47.3,Sometimes,0,12.2,9,6.3,0.417,15.75,68.6,Medium,56.3,Mixed learners
+S1147,Good,89.2,42.4,0,4,2,62.2,Yes,4,19.3,4,3.4,0.892,31.08,61.0,Medium,78.2,Last-minute learners
+S1148,Medium,80.2,44.1,4,2,3,67.2,Sometimes,0,10.9,6,3.4,0.802,22.39,61.7,Low,67.7,Mixed learners
+S1149,Poor,51.1,47.1,8,5,4,46.6,Yes,4,0.0,4,2.6,0.511,11.64,71.2,Good,57.3,Rewatch learners
+S1150,Low,77.6,52.2,11,2,4,63.7,Yes,1,17.5,8,5.8,0.776,15.93,61.3,Low,82.6,Last-minute learners
+S1151,Very Good,84.2,30.8,1,4,4,61.6,Sometimes,2,3.8,1,7.1,0.842,15.4,50.8,Poor,65.5,Quiz-focused learners
+S1152,Low,53.3,53.0,6,0,2,54.7,Sometimes,1,14.4,5,3.9,0.533,27.37,36.9,Poor,56.0,Mixed learners
+S1153,Low,66.8,39.9,4,2,1,54.2,Yes,1,19.0,1,4.1,0.668,54.24,7.2,Poor,40.1,Mixed learners
+S1154,Medium,83.4,23.1,5,2,4,56.7,Sometimes,1,11.2,1,7.1,0.834,14.18,23.6,Poor,55.0,Quiz-focused learners
+S1155,Very Good,100.0,22.3,13,3,4,83.2,Yes,1,0.0,5,5.4,1.0,20.79,81.1,Good,85.6,Quiz-focused learners
+S1156,Low,61.3,33.4,0,2,4,54.7,Yes,1,1.6,5,5.3,0.613,13.68,78.3,Good,56.6,Quiz-focused learners
+S1157,Good,94.6,51.4,6,2,2,67.2,Sometimes,1,17.3,4,2.4,0.946,33.59,40.0,Poor,73.9,Last-minute learners
+S1158,Good,85.7,48.3,6,4,2,48.4,Yes,0,6.8,4,5.7,0.857,24.18,53.0,Low,61.2,Mixed learners
+S1159,Low,63.6,51.5,8,2,1,38.3,Yes,3,8.6,11,2.8,0.636,38.32,100.0,Very Good,61.0,Mixed learners
+S1160,Good,93.1,40.7,5,0,2,64.2,Yes,1,13.3,4,2.5,0.931,32.11,52.3,Low,68.9,Mixed learners
+S1161,Medium,80.2,37.6,6,6,4,57.3,Sometimes,0,12.9,6,3.9,0.802,14.32,52.8,Low,64.0,Rewatch learners
+S1162,Good,73.4,25.9,4,5,2,48.1,No,3,10.0,3,3.4,0.734,24.06,48.4,Low,60.1,Rewatch learners
+S1163,Good,97.8,33.1,6,0,3,65.1,Sometimes,1,6.5,5,4.1,0.978,21.71,70.2,Medium,71.9,Complete learners
+S1164,Medium,86.0,37.4,4,4,2,71.4,Yes,2,5.8,4,1.9,0.86,35.71,72.8,Medium,73.5,Mixed learners
+S1165,Poor,50.0,23.5,7,1,3,48.1,Sometimes,1,14.0,4,6.2,0.5,16.02,25.6,Poor,47.1,Mixed learners
+S1166,Very Good,97.2,28.8,4,3,1,54.6,Yes,2,11.9,8,6.5,0.972,54.6,93.2,Very Good,79.9,Mixed learners
+S1167,Medium,79.0,43.9,6,3,3,54.6,Sometimes,1,6.2,7,1.0,0.79,18.21,78.2,Good,70.0,Mixed learners
+S1168,Low,67.1,49.4,5,2,1,43.7,Sometimes,2,15.6,5,6.3,0.671,43.75,43.6,Poor,39.0,Mixed learners
+S1169,Poor,50.6,59.9,8,1,2,39.7,No,4,7.1,1,3.0,0.506,19.83,27.4,Poor,44.1,Mixed learners
+S1170,Good,80.6,57.3,5,1,1,53.0,Yes,0,2.0,4,6.0,0.806,52.97,63.2,Medium,71.5,Complete learners
+S1171,Good,85.8,45.7,0,1,4,54.8,Sometimes,1,2.7,10,4.4,0.858,13.7,100.0,Very Good,70.6,Complete learners
+S1172,Poor,64.4,36.8,9,1,3,38.9,No,0,1.1,4,4.6,0.644,12.98,46.5,Poor,43.9,Mixed learners
+S1173,Medium,79.3,45.4,2,2,3,54.7,Sometimes,0,6.1,7,4.2,0.793,18.23,79.5,Good,65.6,Mixed learners
+S1174,Low,62.0,51.4,3,1,4,43.4,Yes,2,16.6,7,6.7,0.62,10.86,62.6,Low,55.7,Quiz-focused learners
+S1175,Good,92.2,24.7,3,4,1,38.0,Sometimes,0,2.4,5,2.3,0.922,38.04,70.6,Medium,59.7,Mixed learners
+S1176,Low,42.2,36.4,9,5,5,55.4,No,1,9.3,3,5.6,0.422,11.08,22.7,Poor,39.4,Rewatch learners
+S1177,Good,95.2,53.6,0,1,4,71.5,Yes,0,3.4,1,6.5,0.952,17.89,52.8,Poor,67.3,Complete learners
+S1178,Medium,61.1,35.4,14,3,2,44.5,Yes,0,6.2,6,5.8,0.611,22.24,48.9,Low,65.5,Mixed learners
+S1179,Very Good,91.1,42.9,8,3,4,61.1,Yes,3,0.0,3,8.7,0.911,15.29,75.1,Medium,65.3,Quiz-focused learners
+S1180,Low,56.0,43.5,6,3,1,35.8,Sometimes,3,6.5,5,3.5,0.56,35.85,59.9,Low,52.7,Mixed learners
+S1181,Medium,64.6,27.4,5,3,2,62.7,Sometimes,1,6.6,2,6.2,0.646,31.33,35.4,Poor,59.6,Mixed learners
+S1182,Poor,64.3,34.5,6,4,2,64.1,Yes,3,11.8,4,4.3,0.643,32.05,53.8,Low,56.5,Mixed learners
+S1183,Very Good,90.3,33.4,7,3,2,61.9,Sometimes,1,9.6,5,6.7,0.903,30.93,59.3,Medium,74.3,Mixed learners
+S1184,Very Good,96.8,21.0,7,0,1,71.7,Yes,5,0.0,5,4.5,0.968,71.74,100.0,Very Good,80.9,Complete learners
+S1185,Low,64.6,21.0,7,4,4,50.5,Sometimes,1,15.6,2,3.8,0.646,12.62,12.0,Poor,48.9,Quiz-focused learners
+S1186,Good,89.8,53.3,5,4,2,49.7,Sometimes,3,9.5,7,6.9,0.898,24.86,85.9,Very Good,69.5,Mixed learners
+S1187,Good,86.6,30.9,4,1,3,55.7,No,1,9.4,3,3.6,0.866,18.56,45.7,Low,65.0,Complete learners
+S1188,Good,75.7,40.7,5,3,2,55.1,No,2,7.9,1,2.0,0.757,27.57,32.2,Poor,58.6,Mixed learners
+S1189,Medium,83.0,31.9,4,4,1,53.7,No,1,4.4,4,3.6,0.83,53.7,62.0,Low,68.3,Mixed learners
+S1190,Low,61.0,57.6,8,2,3,45.7,No,2,9.5,5,5.6,0.61,15.24,49.5,Low,55.5,Mixed learners
+S1191,Poor,42.5,30.4,7,5,1,38.4,Yes,0,11.3,5,7.0,0.425,38.42,33.4,Poor,40.0,Rewatch learners
+S1192,Very Good,90.6,37.2,0,7,2,60.1,No,2,0.0,7,4.7,0.906,30.06,100.0,Very Good,71.9,Rewatch learners
+S1193,Very Good,100.0,54.9,7,1,1,65.4,Yes,1,4.2,4,6.9,1.0,65.42,70.1,Medium,91.7,Complete learners
+S1194,Good,92.8,53.7,6,0,5,53.3,Yes,1,6.2,4,2.1,0.928,10.66,62.7,Low,71.8,Complete learners
+S1195,Medium,72.2,27.4,5,3,4,46.8,Sometimes,2,9.8,2,3.7,0.722,11.69,33.5,Poor,63.2,Quiz-focused learners
+S1196,Medium,72.2,52.1,4,4,3,42.2,No,1,16.4,6,4.0,0.722,14.07,48.0,Low,63.9,Last-minute learners
+S1197,Good,83.4,38.3,8,2,4,65.4,Yes,2,2.6,5,4.3,0.834,16.34,79.1,Good,75.2,Quiz-focused learners
+S1198,Very Good,100.0,39.3,8,5,1,48.2,Sometimes,0,4.5,4,4.7,1.0,48.15,55.6,Low,66.0,Rewatch learners
+S1199,Very Good,97.1,25.3,3,0,3,72.9,Yes,0,4.4,1,5.7,0.971,24.3,47.2,Low,74.0,Complete learners
+S1200,Good,89.4,23.2,6,4,3,71.3,Yes,2,2.4,7,3.7,0.894,23.78,100.0,Very Good,74.4,Mixed learners
+S1201,Good,94.2,49.1,2,1,3,60.0,Yes,1,5.6,2,4.8,0.942,20.0,55.8,Low,68.4,Complete learners
+S1202,Poor,56.9,39.9,1,6,4,24.8,Sometimes,1,13.4,3,4.4,0.569,6.2,25.6,Poor,42.8,Rewatch learners
+S1203,Low,62.9,37.5,3,6,3,45.4,Sometimes,4,0.6,5,2.8,0.629,15.14,85.4,Good,50.9,Rewatch learners
+S1204,Very Good,92.4,49.2,8,1,3,61.1,Sometimes,2,11.0,2,4.3,0.924,20.36,36.6,Poor,67.4,Mixed learners
+S1205,Good,85.4,50.6,8,1,1,50.4,No,1,0.0,2,4.2,0.854,50.36,49.0,Low,61.6,Complete learners
+S1206,Poor,54.7,26.4,7,4,1,40.5,Yes,1,4.1,1,4.2,0.547,40.49,25.6,Poor,39.1,Mixed learners
+S1207,Poor,60.8,44.4,7,2,2,59.6,No,1,5.7,6,4.6,0.608,29.81,64.3,Good,60.8,Mixed learners
+S1208,Good,86.4,25.4,7,2,3,64.2,Sometimes,2,19.7,3,4.6,0.864,21.4,27.1,Poor,62.1,Last-minute learners
+S1209,Poor,60.9,50.1,3,3,1,40.0,Yes,1,6.1,10,3.7,0.609,39.99,100.0,Very Good,59.1,Mixed learners
+S1210,Low,64.4,46.3,6,0,5,36.2,Sometimes,3,0.0,3,6.8,0.644,7.24,59.8,Low,38.8,Quiz-focused learners
+S1211,Medium,75.6,58.3,7,2,4,51.4,Sometimes,0,0.0,3,2.4,0.756,12.85,50.3,Low,52.5,Quiz-focused learners
+S1212,Good,70.0,22.8,7,1,3,49.8,Sometimes,0,8.2,3,3.2,0.7,16.6,31.5,Poor,61.5,Mixed learners
+S1213,Good,93.3,22.3,9,2,3,66.0,Yes,4,12.3,5,9.5,0.933,21.99,71.8,Medium,72.7,Mixed learners
+S1214,Low,67.8,31.3,7,5,2,46.2,Sometimes,2,10.6,4,2.6,0.678,23.11,43.2,Poor,54.4,Rewatch learners
+S1215,Good,94.0,30.5,6,0,1,66.4,Yes,2,9.2,6,2.1,0.94,66.38,80.8,Good,77.2,Complete learners
+S1216,Low,41.8,29.9,8,4,3,54.3,No,1,16.1,3,5.8,0.418,18.1,10.2,Poor,54.3,Mixed learners
+S1217,Medium,91.7,56.3,5,2,3,67.8,Yes,3,4.2,2,0.8,0.917,22.6,64.7,Medium,78.4,Mixed learners
+S1218,Good,84.9,30.0,2,2,1,57.8,Yes,3,14.3,1,4.1,0.849,57.81,36.7,Poor,66.6,Mixed learners
+S1219,Good,94.9,30.9,5,4,3,61.2,No,2,0.0,1,8.4,0.949,20.41,55.9,Low,65.7,Mixed learners
+S1220,Very Good,85.7,50.4,3,3,2,55.7,Sometimes,0,1.7,3,1.7,0.857,27.85,57.3,Low,61.2,Mixed learners
+S1221,Good,90.9,38.0,3,4,1,70.4,No,0,0.0,4,0.9,0.909,70.35,73.4,Medium,68.0,Mixed learners
+S1222,Good,77.6,51.1,5,4,1,49.9,Yes,0,6.1,3,1.8,0.776,49.89,45.5,Low,69.4,Mixed learners
+S1223,Poor,50.0,22.6,3,2,2,42.9,Sometimes,1,7.7,7,6.1,0.5,21.43,67.2,Medium,48.8,Mixed learners
+S1224,Medium,90.3,39.5,4,1,5,61.1,Sometimes,0,8.8,7,6.5,0.903,12.21,76.2,Good,78.0,Complete learners
+S1225,Low,63.5,21.3,0,0,3,44.5,No,2,8.4,4,3.6,0.635,14.85,56.3,Medium,56.8,Mixed learners
+S1226,Low,66.7,22.5,6,1,1,39.1,No,0,1.5,1,5.7,0.667,39.05,27.2,Poor,40.7,Mixed learners
+S1227,Very Good,100.0,56.3,5,8,3,67.6,No,4,6.7,3,7.0,1.0,22.53,71.7,Medium,78.4,Rewatch learners
+S1228,Medium,79.0,25.6,3,5,1,55.0,Sometimes,0,0.0,3,7.7,0.79,55.05,58.1,Medium,63.8,Rewatch learners
+S1229,Very Good,95.2,41.3,7,0,4,66.8,Sometimes,0,17.5,3,4.1,0.952,16.71,25.1,Poor,80.0,Last-minute learners
+S1230,Good,88.9,36.4,8,0,2,55.7,Yes,0,5.9,3,0.5,0.889,27.87,46.5,Poor,64.0,Complete learners
+S1231,Good,100.0,33.9,0,3,2,74.8,Yes,2,4.6,3,3.0,1.0,37.38,78.8,Good,73.7,Mixed learners
+S1232,Medium,74.5,56.0,3,4,4,46.5,Sometimes,0,19.1,4,3.7,0.745,11.63,24.6,Poor,53.4,Last-minute learners
+S1233,Good,87.6,20.9,3,4,1,73.1,Yes,2,0.0,3,4.0,0.876,73.12,78.8,Good,76.5,Mixed learners
+S1234,Medium,83.4,46.6,2,2,1,43.6,Yes,1,0.1,5,4.2,0.834,43.55,83.7,Very Good,62.3,Mixed learners
+S1235,Low,73.8,58.5,7,2,2,56.7,Yes,2,0.3,5,6.5,0.738,28.35,80.0,Good,64.4,Mixed learners
+S1236,Good,95.5,42.4,4,3,4,66.8,Sometimes,1,7.5,3,6.8,0.955,16.69,54.7,Low,61.8,Quiz-focused learners
+S1237,Low,70.1,57.5,4,3,1,45.2,Sometimes,2,11.0,7,4.2,0.701,45.18,71.5,Medium,62.2,Mixed learners
+S1238,Poor,45.9,22.1,0,0,1,44.0,No,3,13.2,3,6.5,0.459,44.03,37.5,Poor,53.8,Mixed learners
+S1239,Good,99.1,36.8,7,2,2,74.8,Yes,0,26.0,1,5.1,0.991,37.41,0.0,Poor,78.2,Last-minute learners
+S1240,Low,55.8,30.4,1,1,3,27.4,No,3,0.0,5,4.6,0.558,9.13,78.5,Good,44.9,Mixed learners
+S1241,Very Good,96.4,49.2,5,3,4,67.4,Sometimes,3,12.3,3,6.1,0.964,16.85,54.2,Low,74.9,Quiz-focused learners
+S1242,Very Good,88.0,59.3,6,8,2,39.6,Sometimes,2,4.1,5,4.6,0.88,19.82,71.5,Medium,60.2,Rewatch learners
+S1243,Very Good,93.5,30.3,9,3,2,54.3,Sometimes,1,3.9,1,8.2,0.935,27.17,35.3,Poor,64.6,Mixed learners
+S1244,Medium,77.6,46.2,1,2,4,68.0,Sometimes,1,3.7,7,1.9,0.776,16.99,92.9,Very Good,76.6,Quiz-focused learners
+S1245,Poor,57.6,27.9,0,4,1,41.3,No,3,1.6,6,3.6,0.576,41.25,88.1,Good,50.4,Mixed learners
+S1246,Very Good,97.4,42.6,6,3,2,54.4,Sometimes,2,19.8,1,4.3,0.974,27.21,14.4,Poor,57.2,Last-minute learners
+S1247,Medium,87.9,38.6,10,3,3,58.0,Sometimes,1,13.9,2,5.3,0.879,19.33,20.6,Poor,61.0,Mixed learners
+S1248,Very Good,97.6,58.9,9,4,3,80.5,Yes,2,8.2,8,6.8,0.976,26.83,98.4,Very Good,94.1,Mixed learners
+S1249,Very Good,92.0,44.3,6,7,2,46.8,Yes,0,17.5,3,4.5,0.92,23.38,25.7,Poor,60.8,Last-minute learners
+S1250,Very Good,100.0,34.0,4,0,3,56.6,Yes,0,0.0,3,1.9,1.0,18.86,68.3,Good,71.7,Complete learners
+S1251,Low,74.5,24.6,7,3,1,65.5,Yes,3,0.0,1,6.0,0.745,65.51,55.7,Low,65.6,Mixed learners
+S1252,Medium,65.2,26.0,2,1,2,64.2,Sometimes,1,0.0,4,5.9,0.652,32.1,69.7,Medium,67.0,Mixed learners
+S1253,Very Good,98.8,29.0,6,4,3,63.6,No,2,3.1,4,1.0,0.988,21.21,74.1,Good,79.0,Mixed learners
+S1254,Medium,80.6,30.0,7,1,1,46.4,Yes,1,9.1,6,4.5,0.806,46.36,65.7,Good,65.1,Complete learners
+S1255,Low,62.6,54.0,8,2,3,64.9,Sometimes,1,8.7,2,1.6,0.626,21.65,26.5,Poor,52.0,Mixed learners
+S1256,Good,97.0,42.4,13,2,3,76.4,Sometimes,1,9.0,1,3.3,0.97,25.47,24.6,Poor,71.4,Mixed learners
+S1257,Very Good,92.8,40.9,6,4,2,67.2,Sometimes,4,0.0,5,2.9,0.928,33.6,96.9,Very Good,75.0,Mixed learners
+S1258,Good,87.0,24.6,3,4,3,52.7,Sometimes,0,13.6,7,6.0,0.87,17.55,65.2,Medium,59.9,Mixed learners
+S1259,Good,84.6,54.4,5,0,1,57.7,Sometimes,1,9.7,1,4.7,0.846,57.68,27.3,Poor,66.1,Complete learners
+S1260,Poor,55.1,48.9,0,3,2,43.5,Sometimes,3,13.1,7,2.2,0.551,21.76,72.7,Medium,55.2,Mixed learners
+S1261,Good,77.2,22.7,3,1,3,57.4,No,0,0.0,5,6.1,0.772,19.13,74.0,Medium,66.6,Mixed learners
+S1262,Very Good,82.5,48.3,4,0,3,68.7,Yes,1,10.2,7,1.9,0.825,22.91,81.3,Good,86.4,Mixed learners
+S1263,Low,77.8,41.7,3,2,2,62.0,No,1,0.0,4,5.1,0.778,31.01,72.1,Good,62.3,Mixed learners
+S1264,Medium,68.2,23.3,5,2,3,42.1,No,0,5.2,1,3.0,0.682,14.03,22.4,Poor,48.5,Mixed learners
+S1265,Very Good,86.1,38.3,3,7,3,69.7,Sometimes,3,11.7,4,3.8,0.861,23.25,63.1,Medium,71.6,Rewatch learners
+S1266,Good,68.8,39.4,8,3,1,53.5,Yes,0,8.6,7,5.4,0.688,53.45,65.5,Medium,66.1,Mixed learners
+S1267,Good,80.9,26.6,5,0,4,61.9,Sometimes,2,2.0,3,5.4,0.809,15.47,63.1,Low,60.4,Complete learners
+S1268,Good,75.4,57.8,5,1,2,65.7,Sometimes,0,8.0,4,6.9,0.754,32.83,47.9,Low,75.1,Mixed learners
+S1269,Medium,88.1,54.0,4,5,3,50.8,Sometimes,2,0.0,4,4.4,0.881,16.92,77.0,Medium,60.5,Rewatch learners
+S1270,Low,73.1,46.8,5,7,4,52.6,Sometimes,1,16.1,1,5.1,0.731,13.15,9.5,Poor,56.4,Last-minute learners
+S1271,Good,80.5,38.5,7,0,1,52.0,Yes,3,6.6,8,3.7,0.805,51.97,97.9,Very Good,62.4,Complete learners
+S1272,Good,100.0,36.5,2,0,2,52.5,Yes,3,15.8,3,4.8,1.0,26.23,53.8,Low,73.8,Last-minute learners
+S1273,Very Good,100.0,46.0,3,6,2,67.8,Sometimes,2,4.3,6,5.3,1.0,33.89,93.4,Good,84.5,Rewatch learners
+S1274,Very Good,91.4,41.8,4,3,2,81.2,Sometimes,3,4.3,4,4.3,0.914,40.61,80.6,Good,80.6,Mixed learners
+S1275,Medium,55.0,22.5,1,1,5,30.0,Yes,2,2.7,7,1.3,0.55,6.01,88.5,Good,48.9,Quiz-focused learners
+S1276,Medium,93.3,40.5,3,4,1,61.7,No,1,14.1,5,5.1,0.933,61.74,57.2,Low,74.0,Mixed learners
+S1277,Good,74.9,52.3,4,0,2,58.8,Sometimes,0,3.0,4,5.2,0.749,29.41,57.9,Medium,74.3,Mixed learners
+S1278,Good,72.8,38.4,8,3,3,53.8,Sometimes,2,12.5,3,3.3,0.728,17.92,33.2,Poor,48.6,Mixed learners
+S1279,Good,94.2,22.1,6,3,1,61.5,Yes,0,5.3,6,2.2,0.942,61.48,77.6,Medium,81.0,Mixed learners
+S1280,Good,100.0,51.5,6,4,2,54.6,No,1,0.0,1,7.2,1.0,27.3,49.9,Low,57.5,Mixed learners
+S1281,Very Good,100.0,28.1,8,0,3,66.9,Sometimes,0,4.0,6,5.4,1.0,22.29,76.4,Good,78.7,Complete learners
+S1282,Medium,79.5,30.3,5,3,2,49.7,Yes,0,0.0,2,4.1,0.795,24.86,50.3,Low,57.0,Mixed learners
+S1283,Medium,79.8,26.6,6,1,2,38.4,Sometimes,4,8.2,7,2.5,0.798,19.19,86.1,Very Good,56.9,Mixed learners
+S1284,Poor,61.8,33.2,5,3,2,57.4,No,2,0.0,5,3.0,0.618,28.69,75.6,Medium,60.1,Mixed learners
+S1285,Good,92.1,50.3,6,1,1,69.1,Yes,0,14.5,6,6.8,0.921,69.1,60.1,Low,75.0,Mixed learners
+S1286,Poor,57.2,40.8,3,2,3,46.2,Sometimes,3,7.4,5,4.7,0.572,15.39,65.0,Medium,57.7,Mixed learners
+S1287,Medium,75.8,28.2,0,1,5,56.0,Sometimes,0,6.8,1,3.5,0.758,11.19,32.2,Poor,46.6,Quiz-focused learners
+S1288,Medium,74.5,55.1,5,4,3,62.1,No,1,12.6,3,5.4,0.745,20.71,34.8,Poor,65.2,Mixed learners
+S1289,Low,59.0,55.2,9,4,3,48.3,Sometimes,2,14.7,6,3.0,0.59,16.11,45.3,Poor,54.6,Mixed learners
+S1290,Good,83.8,54.8,8,2,3,64.9,Sometimes,2,7.9,5,7.2,0.838,21.64,64.6,Low,65.0,Mixed learners
+S1291,Poor,41.5,29.6,8,3,1,36.3,No,1,2.6,7,6.9,0.415,36.28,65.6,Medium,47.4,Mixed learners
+S1292,Poor,54.2,38.0,9,0,5,54.9,No,4,0.0,5,3.7,0.542,10.98,76.5,Medium,48.7,Quiz-focused learners
+S1293,Good,78.1,59.4,5,2,3,57.7,Yes,1,3.2,3,3.4,0.781,19.24,58.0,Low,64.4,Mixed learners
+S1294,Medium,66.2,50.9,6,2,4,51.3,No,2,3.7,3,0.5,0.662,12.83,51.1,Low,47.0,Quiz-focused learners
+S1295,Low,66.4,21.1,3,8,2,39.7,No,3,8.7,5,1.8,0.664,19.87,64.2,Medium,54.1,Rewatch learners
+S1296,Medium,86.1,22.6,4,0,5,61.1,Sometimes,0,5.6,1,2.1,0.861,12.21,33.2,Poor,56.8,Complete learners
+S1297,Good,93.3,38.6,7,5,3,55.4,Yes,2,12.8,8,4.7,0.933,18.45,85.6,Very Good,75.2,Rewatch learners
+S1298,Low,52.4,56.4,9,4,3,38.5,No,1,3.7,5,3.9,0.524,12.83,50.1,Low,48.4,Mixed learners
+S1299,Good,78.1,41.5,5,3,3,48.6,Sometimes,1,7.6,7,2.1,0.781,16.2,75.4,Good,60.3,Mixed learners
+S1300,Poor,62.5,39.9,4,6,2,39.6,No,1,16.3,1,4.0,0.625,19.8,4.2,Poor,42.3,Rewatch learners
+S1301,Poor,47.1,24.2,5,3,4,58.2,No,1,10.4,7,5.4,0.471,14.55,60.9,Low,52.6,Quiz-focused learners
+S1302,Medium,73.2,46.3,7,3,3,63.6,No,2,7.6,9,5.5,0.732,21.2,94.7,Very Good,78.1,Mixed learners
+S1303,Medium,79.4,52.9,1,2,1,71.1,Yes,2,3.8,2,1.1,0.794,71.09,62.9,Low,78.7,Mixed learners
+S1304,Good,78.3,35.2,0,5,1,45.4,No,1,3.6,6,4.3,0.783,45.43,82.3,Very Good,74.4,Rewatch learners
+S1305,Good,86.8,51.0,3,5,2,59.6,No,2,2.0,5,2.0,0.868,29.82,83.7,Very Good,69.3,Rewatch learners
+S1306,Very Good,83.3,58.6,1,1,3,47.1,Sometimes,3,4.2,1,6.1,0.833,15.72,51.7,Low,56.9,Complete learners
+S1307,Medium,70.2,28.2,3,0,2,46.0,Yes,2,13.3,5,5.9,0.702,23.01,56.7,Low,50.5,Mixed learners
+S1308,Medium,77.6,40.9,5,2,4,47.6,Sometimes,2,6.4,6,2.9,0.776,11.89,74.3,Good,68.9,Quiz-focused learners
+S1309,Good,73.3,31.5,4,1,1,62.9,Sometimes,3,0.0,3,3.1,0.733,62.88,71.2,Medium,66.4,Mixed learners
+S1310,Low,68.5,51.7,9,2,3,47.7,No,1,20.4,7,3.7,0.685,15.89,40.3,Poor,58.4,Mixed learners
+S1311,Medium,74.8,43.1,6,5,1,62.2,Sometimes,1,10.2,1,0.5,0.748,62.23,22.2,Poor,64.9,Rewatch learners
+S1312,Poor,59.4,45.4,6,2,3,51.6,Sometimes,2,0.0,2,5.1,0.594,17.19,48.1,Low,48.9,Mixed learners
+S1313,Poor,56.8,51.9,7,2,2,64.0,Sometimes,0,4.9,5,4.0,0.568,31.99,52.4,Poor,59.9,Mixed learners
+S1314,Very Good,100.0,35.8,2,3,3,53.2,Sometimes,2,8.8,5,6.2,1.0,17.72,75.1,Good,71.6,Mixed learners
+S1315,Very Good,95.0,56.6,8,4,1,72.8,Sometimes,0,19.9,3,2.5,0.95,72.82,20.0,Poor,69.2,Last-minute learners
+S1316,Good,82.6,41.3,5,0,4,66.3,No,1,0.2,6,3.4,0.826,16.58,87.2,Good,78.4,Complete learners
+S1317,Medium,76.0,26.3,7,1,4,46.4,Sometimes,0,14.8,6,1.8,0.76,11.6,43.7,Poor,55.0,Quiz-focused learners
+S1318,Low,69.3,47.8,2,3,3,59.3,No,1,17.8,6,2.7,0.693,19.75,50.5,Poor,60.1,Mixed learners
+S1319,Low,65.4,51.7,0,5,2,52.1,Yes,1,3.6,4,2.4,0.654,26.06,67.1,Medium,54.7,Rewatch learners
+S1320,Low,65.3,32.7,7,2,3,47.6,Yes,2,6.1,6,6.3,0.653,15.86,71.8,Good,64.6,Mixed learners
+S1321,Medium,69.4,54.3,6,0,2,44.6,Yes,1,0.7,4,3.2,0.694,22.32,63.7,Good,53.3,Mixed learners
+S1322,Good,80.7,56.2,2,4,4,50.6,Yes,2,6.6,9,4.7,0.807,12.64,100.0,Very Good,66.3,Quiz-focused learners
+S1323,Good,74.8,31.1,2,1,4,70.0,Sometimes,1,7.7,3,3.8,0.748,17.51,50.7,Low,63.9,Quiz-focused learners
+S1324,Low,79.0,59.3,8,0,4,55.6,Yes,2,12.6,9,2.2,0.79,13.89,87.5,Very Good,75.1,Quiz-focused learners
+S1325,Very Good,84.0,25.6,1,1,2,64.1,Sometimes,1,15.6,5,4.2,0.84,32.04,54.5,Low,64.6,Last-minute learners
+S1326,Good,80.5,28.1,10,2,3,49.9,Sometimes,1,2.8,2,5.6,0.805,16.63,38.6,Poor,49.8,Mixed learners
+S1327,Good,80.3,27.4,2,1,1,49.9,Sometimes,1,0.0,7,2.3,0.803,49.87,96.1,Very Good,76.1,Complete learners
+S1328,Good,93.2,55.8,7,0,3,70.6,Sometimes,2,7.9,5,6.0,0.932,23.53,70.5,Medium,72.5,Complete learners
+S1329,Medium,72.6,46.2,4,4,3,41.9,Yes,2,10.1,6,3.0,0.726,13.96,69.7,Medium,58.2,Mixed learners
+S1330,Low,75.0,26.1,7,5,1,50.4,Sometimes,0,9.7,7,3.6,0.75,50.42,62.3,Medium,62.4,Rewatch learners
+S1331,Medium,69.6,37.6,3,4,1,51.6,Sometimes,1,5.7,5,5.5,0.696,51.6,63.8,Medium,57.2,Mixed learners
+S1332,Good,88.2,44.6,5,0,2,60.6,Yes,0,8.9,3,3.3,0.882,30.3,45.8,Low,71.9,Complete learners
+S1333,Poor,48.3,23.3,5,2,2,40.3,No,4,18.6,6,4.6,0.483,20.16,48.3,Poor,53.4,Mixed learners
+S1334,Poor,72.2,55.3,2,2,1,55.6,Sometimes,1,10.7,5,3.9,0.722,55.64,57.0,Low,60.7,Mixed learners
+S1335,Poor,45.5,52.1,7,4,3,46.0,Yes,2,5.4,6,4.7,0.455,15.34,65.9,Medium,47.8,Mixed learners
+S1336,Poor,57.5,40.2,3,4,3,51.7,Sometimes,1,4.5,1,0.5,0.575,17.25,30.0,Poor,54.1,Mixed learners
+S1337,Very Good,99.1,58.7,4,1,2,56.7,Sometimes,0,6.8,5,1.2,0.991,28.35,66.4,Medium,70.4,Complete learners
+S1338,Good,89.3,36.7,2,3,2,57.9,No,0,19.5,3,5.6,0.893,28.96,24.9,Poor,73.3,Last-minute learners
+S1339,Medium,73.5,59.4,0,3,4,62.6,Sometimes,4,6.7,8,6.4,0.735,15.66,100.0,Very Good,61.3,Quiz-focused learners
+S1340,Poor,54.0,46.7,4,5,4,51.4,Yes,0,7.9,6,2.9,0.54,12.86,59.5,Medium,60.5,Rewatch learners
+S1341,Medium,75.4,45.4,12,4,2,42.9,Sometimes,1,4.6,5,4.1,0.754,21.46,52.7,Low,65.8,Mixed learners
+S1342,Medium,73.8,26.6,7,4,2,56.0,Sometimes,2,15.7,5,5.0,0.738,28.02,45.2,Poor,61.2,Last-minute learners
+S1343,Low,72.7,55.3,5,3,3,36.9,No,0,21.7,3,5.7,0.727,12.3,5.9,Poor,47.0,Last-minute learners
+S1344,Medium,92.7,37.1,4,5,2,62.1,No,0,11.2,8,0.9,0.927,31.04,80.5,Good,79.4,Rewatch learners
+S1345,Medium,70.5,26.5,5,3,2,66.9,Yes,3,8.6,8,2.9,0.705,33.46,96.4,Very Good,74.2,Mixed learners
+S1346,Good,75.0,20.5,7,1,3,46.2,Sometimes,1,8.3,5,3.9,0.75,15.4,53.5,Low,56.4,Mixed learners
+S1347,Good,85.3,42.4,1,5,1,51.7,Sometimes,0,0.0,8,5.8,0.853,51.71,100.0,Very Good,68.3,Rewatch learners
+S1348,Poor,75.6,41.1,8,4,4,60.1,No,2,13.2,3,9.0,0.756,15.04,34.1,Poor,58.6,Quiz-focused learners
+S1349,Medium,68.6,48.8,7,2,3,38.5,Yes,2,8.9,3,4.1,0.686,12.84,41.3,Poor,56.9,Mixed learners
+S1350,Good,99.1,55.6,7,2,2,59.5,Yes,3,11.0,5,2.0,0.991,29.77,73.1,Good,77.8,Mixed learners
+S1351,Medium,88.4,23.2,6,3,2,64.6,Sometimes,0,3.0,5,5.2,0.884,32.28,68.8,Medium,73.3,Mixed learners
+S1352,Very Good,89.6,49.3,5,3,2,55.2,No,0,5.3,4,6.9,0.896,27.62,56.3,Low,69.3,Mixed learners
+S1353,Good,90.6,27.5,7,3,1,58.9,Sometimes,0,5.1,6,4.7,0.906,58.86,70.7,Medium,70.2,Mixed learners
+S1354,Low,78.0,54.3,7,3,4,61.1,Yes,2,15.2,5,2.9,0.78,15.27,52.7,Low,66.1,Last-minute learners
+S1355,Poor,52.0,52.8,4,6,3,46.8,Sometimes,1,5.3,3,6.2,0.52,15.59,39.8,Poor,44.3,Rewatch learners
+S1356,Good,84.4,41.6,3,5,3,60.1,Yes,1,22.6,6,5.7,0.844,20.03,48.9,Low,73.4,Last-minute learners
+S1357,Poor,50.3,48.4,5,3,4,39.9,Sometimes,1,11.0,6,2.7,0.503,9.99,49.1,Poor,43.8,Quiz-focused learners
+S1358,Good,77.9,32.6,10,4,1,58.0,Yes,1,0.0,5,5.2,0.779,58.01,72.9,Medium,65.8,Mixed learners
+S1359,Very Good,88.8,38.8,1,0,3,59.0,Sometimes,1,7.1,7,6.3,0.888,19.66,88.2,Very Good,70.5,Complete learners
+S1360,Good,76.2,52.9,1,3,2,58.0,No,0,3.4,2,6.6,0.762,28.98,45.9,Poor,69.4,Mixed learners
+S1361,Medium,75.3,38.4,5,6,4,49.9,Sometimes,0,0.0,5,4.4,0.753,12.47,68.8,Medium,46.2,Rewatch learners
+S1362,Good,79.8,34.3,5,2,1,54.5,No,1,19.2,2,3.9,0.798,54.47,13.9,Poor,57.0,Last-minute learners
+S1363,Medium,76.9,39.8,6,1,2,46.7,Yes,3,12.9,2,6.7,0.769,23.34,36.4,Poor,64.4,Mixed learners
+S1364,Medium,62.6,53.1,6,1,2,47.9,Yes,0,11.7,3,2.3,0.626,23.93,27.0,Poor,54.7,Mixed learners
+S1365,Very Good,96.6,33.4,4,0,3,57.0,Yes,0,9.2,3,5.3,0.966,19.0,48.9,Low,73.1,Complete learners
+S1366,Medium,81.7,27.0,9,1,3,47.8,Sometimes,1,0.0,3,2.0,0.817,15.95,53.7,Low,57.3,Complete learners
+S1367,Very Good,78.1,48.5,0,2,2,57.2,No,0,4.6,4,6.4,0.781,28.6,61.5,Medium,59.5,Mixed learners
+S1368,Very Good,97.0,53.0,3,0,2,65.3,Yes,0,13.9,6,4.0,0.97,32.67,66.7,Medium,68.8,Mixed learners
+S1369,Low,74.8,24.0,5,3,2,59.9,Sometimes,1,0.6,4,6.8,0.748,29.97,66.4,Medium,64.4,Mixed learners
+S1370,Poor,45.3,29.6,0,4,1,36.9,No,2,0.0,1,5.4,0.453,36.95,41.3,Poor,32.0,Mixed learners
+S1371,Poor,68.4,25.7,4,1,4,54.0,Sometimes,0,6.4,7,2.3,0.684,13.51,71.9,Good,60.2,Quiz-focused learners
+S1372,Poor,58.4,33.9,10,6,2,50.7,No,0,7.0,3,7.1,0.584,25.33,25.5,Poor,48.9,Rewatch learners
+S1373,Poor,49.4,38.0,5,4,1,45.8,Sometimes,5,8.9,4,7.3,0.494,45.77,58.0,Low,56.7,Mixed learners
+S1374,Good,85.6,50.0,6,5,2,51.9,Sometimes,1,13.1,5,6.1,0.856,25.95,50.1,Low,76.2,Rewatch learners
+S1375,Poor,59.5,46.0,1,1,1,48.0,No,0,12.5,5,3.1,0.595,47.95,44.0,Poor,55.3,Mixed learners
+S1376,Medium,75.6,44.8,3,4,1,56.9,Yes,0,9.8,7,3.9,0.756,56.94,73.7,Good,68.7,Mixed learners
+S1377,Very Good,98.3,34.1,4,0,1,64.3,No,3,16.4,5,4.8,0.983,64.3,63.5,Medium,69.0,Last-minute learners
+S1378,Poor,47.6,53.7,4,4,3,24.7,No,0,0.0,3,3.2,0.476,8.25,39.6,Poor,36.2,Mixed learners
+S1379,Good,87.4,38.9,9,3,4,60.6,No,2,11.5,9,7.5,0.874,15.15,88.1,Very Good,86.4,Quiz-focused learners
+S1380,Low,53.7,59.2,7,4,3,61.9,Yes,1,12.4,5,4.8,0.537,20.62,44.9,Poor,61.9,Mixed learners
+S1381,Poor,54.1,45.4,2,0,2,41.5,Sometimes,1,0.0,4,0.5,0.541,20.73,61.2,Medium,35.1,Mixed learners
+S1382,Good,78.8,25.1,6,1,3,49.6,Sometimes,1,0.0,6,5.1,0.788,16.54,81.5,Good,66.3,Mixed learners
+S1383,Good,80.1,47.0,6,4,2,59.0,No,2,2.8,5,3.9,0.801,29.52,75.3,Good,71.4,Mixed learners
+S1384,Very Good,100.0,33.0,8,1,2,67.5,No,1,3.4,5,4.4,1.0,33.75,74.8,Medium,69.2,Complete learners
+S1385,Good,94.7,47.5,10,3,1,72.2,Sometimes,0,13.3,9,3.8,0.947,72.17,78.0,Good,87.0,Mixed learners
+S1386,Good,90.9,22.8,2,0,1,50.8,Yes,2,3.7,4,6.0,0.909,50.83,77.6,Good,68.5,Complete learners
+S1387,Low,56.3,27.0,3,4,2,51.2,Yes,1,2.0,4,6.5,0.563,25.58,62.4,Medium,55.7,Mixed learners
+S1388,Low,62.5,54.2,1,0,3,52.8,No,1,3.7,5,5.0,0.625,17.61,68.5,Medium,53.8,Mixed learners
+S1389,Good,95.7,29.1,4,4,2,61.9,Sometimes,3,15.8,7,3.9,0.957,30.96,79.2,Good,81.9,Last-minute learners
+S1390,Good,87.1,53.5,6,4,2,61.9,Yes,2,8.1,1,4.4,0.871,30.96,39.7,Poor,63.2,Mixed learners
+S1391,Very Good,100.0,31.2,8,1,1,73.2,Sometimes,2,6.7,1,4.5,1.0,73.24,42.2,Poor,64.9,Complete learners
+S1392,Medium,78.1,45.7,5,4,3,62.1,Yes,4,7.2,3,3.1,0.781,20.71,65.8,Medium,56.4,Mixed learners
+S1393,Medium,76.5,47.8,4,3,1,45.3,No,3,17.0,1,5.5,0.765,45.3,18.8,Poor,56.2,Last-minute learners
+S1394,Good,83.5,40.5,5,1,3,64.1,Yes,0,2.8,4,5.3,0.835,21.38,65.1,Medium,74.4,Complete learners
+S1395,Medium,76.1,32.2,2,0,1,53.7,Yes,2,17.2,6,7.3,0.761,53.71,61.9,Medium,67.8,Last-minute learners
+S1396,Very Good,92.8,28.5,11,0,2,62.3,Yes,1,9.5,3,6.8,0.928,31.17,42.5,Poor,68.9,Complete learners
+S1397,Very Good,99.7,21.3,0,3,1,65.4,Yes,1,6.9,2,3.3,0.997,65.43,59.2,Medium,70.2,Mixed learners
+S1398,Medium,82.7,32.2,6,0,2,56.0,Sometimes,1,25.5,5,6.0,0.827,28.0,25.1,Poor,60.2,Last-minute learners
+S1399,Good,79.7,46.1,11,3,4,65.4,Yes,3,0.6,6,2.8,0.797,16.35,90.3,Good,72.7,Quiz-focused learners
+S1400,Good,75.4,57.5,5,2,3,53.2,Sometimes,0,5.5,1,5.8,0.754,17.75,26.5,Poor,43.3,Mixed learners
+S1401,Poor,40.3,54.8,4,4,4,29.2,Sometimes,1,0.0,6,3.6,0.403,7.3,66.9,Low,36.5,Quiz-focused learners
+S1402,Very Good,98.1,50.6,4,2,3,61.0,Yes,4,14.7,6,2.7,0.981,20.33,83.2,Good,76.4,Mixed learners
+S1403,Medium,66.2,51.5,4,2,1,51.2,Yes,1,19.8,6,5.0,0.662,51.21,44.8,Poor,66.1,Mixed learners
+S1404,Good,68.8,46.6,9,4,2,60.8,Yes,2,19.7,7,0.5,0.688,30.39,53.3,Low,70.9,Mixed learners
+S1405,Medium,78.1,30.4,0,3,2,60.0,No,2,16.6,9,1.3,0.781,29.99,88.2,Very Good,78.4,Last-minute learners
+S1406,Very Good,100.0,56.3,10,3,4,58.2,Yes,1,6.6,4,4.2,1.0,14.55,59.4,Low,79.8,Quiz-focused learners
+S1407,Medium,75.0,46.8,1,3,1,73.6,Yes,1,5.4,5,4.6,0.75,73.61,77.6,Good,81.3,Mixed learners
+S1408,Poor,61.7,42.4,4,0,4,49.9,No,4,0.0,4,3.8,0.617,12.47,77.6,Good,56.3,Quiz-focused learners
+S1409,Very Good,94.7,24.4,4,4,4,72.8,Sometimes,2,22.3,5,1.7,0.947,18.2,47.2,Poor,78.5,Last-minute learners
+S1410,Poor,54.2,37.9,7,4,5,43.2,Sometimes,2,11.3,8,3.0,0.542,8.64,68.5,Medium,51.1,Quiz-focused learners
+S1411,Medium,82.4,38.4,0,0,2,61.3,Sometimes,2,4.6,2,5.2,0.824,30.66,58.0,Low,66.1,Complete learners
+S1412,Very Good,91.7,54.6,6,2,3,68.0,Yes,3,17.3,3,5.5,0.917,22.66,45.1,Poor,82.3,Last-minute learners
+S1413,Very Good,96.1,41.9,11,2,5,73.0,Sometimes,2,1.2,7,4.5,0.961,14.6,95.4,Very Good,84.7,Quiz-focused learners
+S1414,Good,88.6,35.2,1,2,2,68.3,Yes,1,10.8,7,6.6,0.886,34.16,86.5,Very Good,90.7,Mixed learners
+S1415,Good,80.7,59.1,6,3,1,63.3,Yes,2,6.8,4,5.2,0.807,63.27,64.3,Medium,62.4,Mixed learners
+S1416,Medium,82.9,24.4,3,5,1,54.8,Sometimes,1,12.5,6,3.2,0.829,54.8,63.5,Medium,61.3,Rewatch learners
+S1417,Low,63.6,36.9,6,5,3,44.0,Yes,2,7.6,5,4.0,0.636,14.68,61.0,Low,60.6,Rewatch learners
+S1418,Medium,69.0,21.7,5,0,1,53.7,Sometimes,2,0.0,8,2.0,0.69,53.69,100.0,Very Good,67.5,Mixed learners
+S1419,Good,90.3,49.6,3,4,2,68.1,Yes,2,8.5,5,4.3,0.903,34.05,77.7,Good,84.1,Mixed learners
+S1420,Good,78.8,56.7,6,5,3,53.7,No,2,15.3,7,6.5,0.788,17.89,64.6,Medium,67.1,Last-minute learners
+S1421,Good,86.2,31.2,10,3,3,67.3,Yes,2,7.8,10,5.7,0.862,22.44,100.0,Very Good,81.6,Mixed learners
+S1422,Good,85.9,54.3,4,5,3,70.3,No,1,13.4,6,7.0,0.859,23.43,64.3,Medium,75.4,Rewatch learners
+S1423,Poor,63.7,31.7,7,7,3,41.3,Sometimes,0,0.7,5,4.0,0.637,13.78,58.7,Medium,44.2,Rewatch learners
+S1424,Medium,78.8,56.4,1,5,4,48.8,Yes,2,7.8,6,6.9,0.788,12.19,82.2,Good,59.8,Rewatch learners
+S1425,Poor,54.8,50.2,2,3,1,43.5,Sometimes,0,3.6,4,4.2,0.548,43.54,49.6,Poor,53.2,Mixed learners
+S1426,Medium,81.5,52.2,6,5,2,59.2,Sometimes,0,13.2,9,7.1,0.815,29.58,76.9,Good,79.4,Rewatch learners
+S1427,Medium,86.1,20.7,9,3,2,54.6,Sometimes,2,8.2,5,4.5,0.861,27.28,61.1,Medium,67.7,Mixed learners
+S1428,Very Good,98.5,58.5,6,3,3,75.1,Yes,1,12.8,4,5.8,0.985,25.04,55.8,Low,73.3,Mixed learners
+S1429,Medium,75.1,49.1,4,2,4,57.2,No,0,15.6,3,7.2,0.751,14.29,24.5,Poor,58.2,Last-minute learners
+S1430,Poor,44.5,32.2,5,6,3,40.3,No,0,12.8,7,4.2,0.445,13.45,46.5,Poor,43.4,Rewatch learners
+S1431,Low,56.5,53.2,1,1,4,33.9,Sometimes,1,9.9,6,4.9,0.565,8.48,58.2,Medium,53.5,Quiz-focused learners
+S1432,Good,83.6,31.3,7,6,1,47.1,Sometimes,1,1.0,4,6.8,0.836,47.07,63.1,Low,56.0,Rewatch learners
+S1433,Good,81.1,54.9,8,3,5,58.8,No,3,8.0,6,4.3,0.811,11.75,75.2,Good,63.2,Quiz-focused learners
+S1434,Poor,53.5,24.5,4,0,4,27.0,Sometimes,2,4.3,1,2.1,0.535,6.75,27.6,Poor,33.1,Quiz-focused learners
+S1435,Poor,55.5,48.1,4,3,3,53.1,Sometimes,1,5.6,5,8.4,0.555,17.69,57.8,Low,52.6,Mixed learners
+S1436,Good,90.2,41.6,6,0,5,59.3,No,1,5.4,5,3.7,0.902,11.87,68.7,Medium,77.1,Complete learners
+S1437,Poor,54.4,23.9,4,4,1,70.4,Sometimes,4,1.1,8,4.8,0.544,70.44,100.0,Very Good,67.4,Mixed learners
+S1438,Good,89.9,29.7,5,4,2,78.9,Yes,2,0.0,3,6.6,0.899,39.46,77.7,Good,72.4,Mixed learners
+S1439,Good,86.5,20.5,11,1,2,57.5,No,1,3.3,2,3.4,0.865,28.74,39.6,Poor,50.8,Complete learners
+S1440,Poor,39.2,38.8,4,3,3,36.8,Sometimes,1,9.4,3,2.7,0.392,12.26,25.4,Poor,37.8,Mixed learners
+S1441,Poor,47.5,32.1,4,6,1,49.3,Yes,1,0.0,2,5.0,0.475,49.33,45.5,Poor,45.6,Rewatch learners
+S1442,Very Good,92.8,43.9,3,1,3,75.4,Sometimes,0,8.1,7,1.3,0.928,25.14,82.9,Good,76.2,Complete learners
+S1443,Medium,65.3,31.9,7,0,4,36.3,Yes,3,21.3,8,4.0,0.653,9.07,60.0,Low,64.5,Quiz-focused learners
+S1444,Medium,79.8,32.0,4,5,3,41.6,Sometimes,2,15.2,5,4.9,0.798,13.87,49.9,Low,60.2,Last-minute learners
+S1445,Good,98.2,49.7,3,6,3,59.2,Sometimes,0,19.5,7,4.0,0.982,19.74,58.7,Low,75.9,Last-minute learners
+S1446,Very Good,100.0,21.9,9,3,1,69.7,No,5,10.7,5,1.7,1.0,69.66,79.0,Good,85.1,Mixed learners
+S1447,Very Good,92.3,56.1,9,5,1,65.5,Yes,0,16.2,4,7.4,0.923,65.51,35.6,Poor,78.0,Last-minute learners
+S1448,Good,97.9,54.1,3,5,4,72.6,Yes,1,2.9,4,4.7,0.979,18.16,79.4,Medium,76.2,Rewatch learners
+S1449,Medium,76.2,46.7,0,1,3,44.7,No,3,3.5,4,7.1,0.762,14.9,75.6,Good,50.2,Mixed learners
+S1450,Poor,52.3,43.7,8,2,2,25.0,Sometimes,1,0.0,1,4.0,0.523,12.5,24.3,Poor,35.5,Mixed learners
+S1451,Good,81.1,55.7,3,5,2,63.4,Yes,2,16.3,5,2.9,0.811,31.68,57.9,Low,74.2,Last-minute learners
+S1452,Good,83.6,27.4,7,6,1,51.0,Sometimes,2,18.8,4,5.0,0.836,50.99,33.4,Poor,62.0,Last-minute learners
+S1453,Medium,71.9,23.2,0,4,1,36.2,Sometimes,1,4.1,6,4.1,0.719,36.2,77.1,Good,49.2,Mixed learners
+S1454,Very Good,95.4,29.6,8,1,5,64.1,Yes,3,6.2,5,2.4,0.954,12.81,80.7,Very Good,79.9,Complete learners
+S1455,Poor,56.3,51.8,1,6,1,51.7,Yes,1,2.7,4,7.1,0.563,51.67,64.1,Low,52.5,Rewatch learners
+S1456,Medium,75.0,21.4,7,1,3,52.8,Sometimes,2,10.7,3,3.4,0.75,17.59,39.0,Poor,57.0,Mixed learners
+S1457,Poor,58.5,43.3,5,2,4,42.7,Yes,2,15.9,5,1.2,0.585,10.67,43.8,Poor,61.2,Quiz-focused learners
+S1458,Medium,84.5,59.8,2,3,1,56.8,Yes,2,0.0,6,6.9,0.845,56.76,99.9,Very Good,68.3,Mixed learners
+S1459,Poor,62.6,54.2,4,6,3,45.2,Sometimes,0,10.9,2,3.6,0.626,15.07,19.2,Poor,39.8,Rewatch learners
+S1460,Poor,43.1,40.9,7,4,4,28.6,Sometimes,1,6.1,5,3.4,0.431,7.15,43.2,Poor,33.4,Quiz-focused learners
+S1461,Poor,34.6,22.5,5,3,3,29.8,Sometimes,4,8.8,5,1.3,0.346,9.95,53.0,Low,41.8,Mixed learners
+S1462,Good,93.5,53.3,7,3,6,66.2,Yes,0,11.2,3,7.6,0.935,11.04,41.0,Poor,74.7,Quiz-focused learners
+S1463,Good,75.1,44.0,11,3,1,56.4,Yes,1,6.7,3,2.2,0.751,56.35,40.7,Poor,61.9,Mixed learners
+S1464,Good,84.2,24.6,0,4,4,59.2,No,0,7.3,5,4.6,0.842,14.81,66.8,Medium,65.3,Quiz-focused learners
+S1465,Very Good,84.6,23.8,10,0,2,50.1,Yes,2,6.5,2,6.1,0.846,25.06,41.6,Poor,62.4,Complete learners
+S1466,Medium,60.6,56.4,5,2,3,45.8,Sometimes,4,14.8,5,5.3,0.606,15.27,53.3,Low,49.1,Mixed learners
+S1467,Low,69.3,46.8,2,3,3,33.8,No,3,10.9,3,4.4,0.693,11.26,45.2,Poor,46.9,Mixed learners
+S1468,Very Good,100.0,53.2,1,0,2,66.4,Sometimes,0,9.5,7,1.4,1.0,33.21,83.7,Good,76.9,Complete learners
+S1469,Low,60.4,55.2,4,3,3,58.6,Sometimes,1,0.0,9,3.0,0.604,19.54,100.0,Very Good,63.9,Mixed learners
+S1470,Very Good,73.3,42.9,8,2,1,41.2,Yes,0,5.3,3,4.8,0.733,41.18,39.2,Poor,50.4,Mixed learners
+S1471,Poor,50.6,40.7,5,6,3,38.1,No,1,14.3,6,3.1,0.506,12.7,42.3,Poor,46.3,Rewatch learners
+S1472,Very Good,97.1,37.2,10,6,3,66.3,Yes,3,8.3,3,4.9,0.971,22.11,58.7,Low,74.4,Rewatch learners
+S1473,Poor,43.2,32.7,1,2,3,49.4,Sometimes,0,12.6,7,5.7,0.432,16.48,54.3,Low,55.3,Mixed learners
+S1474,Very Good,95.5,37.4,5,2,4,59.4,No,3,20.4,2,6.2,0.955,14.84,28.1,Poor,46.9,Last-minute learners
+S1475,Medium,74.9,51.0,1,2,3,48.2,Yes,2,15.3,5,2.3,0.749,16.05,57.8,Medium,57.9,Last-minute learners
+S1476,Very Good,98.6,44.1,6,2,3,48.6,Sometimes,2,8.7,3,8.5,0.986,16.21,51.9,Low,60.4,Mixed learners
+S1477,Poor,56.0,55.7,8,3,1,46.0,Sometimes,1,4.4,4,5.9,0.56,46.01,44.9,Low,57.6,Mixed learners
+S1478,Good,78.2,37.7,4,1,2,71.5,Sometimes,2,0.0,2,4.5,0.782,35.77,61.7,Low,61.4,Mixed learners
+S1479,Very Good,100.0,44.3,0,0,4,67.2,Yes,1,6.8,6,6.5,1.0,16.8,91.8,Very Good,82.8,Complete learners
+S1480,Medium,73.7,45.3,6,4,4,53.0,Sometimes,1,5.7,3,8.8,0.737,13.25,45.0,Poor,64.7,Quiz-focused learners
+S1481,Good,85.8,43.7,6,4,2,61.2,No,6,10.7,6,1.9,0.858,30.59,89.8,Very Good,64.8,Mixed learners
+S1482,Good,78.5,48.1,6,1,3,55.3,No,2,6.9,4,4.1,0.785,18.42,57.7,Low,63.9,Mixed learners
+S1483,Medium,71.5,29.5,9,4,1,45.7,Sometimes,1,5.8,4,0.5,0.715,45.65,46.1,Poor,50.5,Mixed learners
+S1484,Good,78.9,40.5,2,1,4,62.1,Yes,2,0.0,5,4.8,0.789,15.53,91.0,Very Good,68.3,Quiz-focused learners
+S1485,Good,84.6,24.2,7,3,3,59.9,Sometimes,0,1.4,3,5.2,0.846,19.96,52.3,Low,60.3,Mixed learners
+S1486,Very Good,100.0,35.4,9,4,5,65.1,No,0,11.3,5,4.4,1.0,13.03,51.9,Low,72.2,Quiz-focused learners
+S1487,Poor,44.0,39.5,0,2,1,32.0,No,2,20.0,8,3.3,0.44,32.01,55.8,Low,60.4,Mixed learners
+S1488,Low,52.1,46.1,6,3,2,53.9,Sometimes,2,7.3,3,0.8,0.521,26.93,39.4,Poor,55.5,Mixed learners
+S1489,Very Good,100.0,58.0,3,1,3,70.3,Yes,1,10.3,7,5.2,1.0,23.44,89.0,Very Good,91.2,Mixed learners
+S1490,Very Good,92.3,44.0,5,2,3,57.1,Sometimes,0,14.7,7,7.1,0.923,19.04,62.9,Medium,75.6,Mixed learners
+S1491,Medium,69.6,49.7,6,2,2,59.4,Yes,1,2.3,3,3.4,0.696,29.68,55.6,Low,54.5,Mixed learners
+S1492,Good,94.3,40.3,4,1,1,58.5,Sometimes,1,10.6,2,5.3,0.943,58.46,38.6,Poor,66.4,Mixed learners
+S1493,Low,60.2,45.4,3,2,4,40.8,No,0,2.8,5,1.7,0.602,10.2,59.1,Low,55.9,Quiz-focused learners
+S1494,Low,79.6,22.8,5,0,3,49.7,Yes,1,14.1,3,5.3,0.796,16.58,35.2,Poor,56.0,Mixed learners
+S1495,Medium,80.4,30.2,2,2,1,42.0,Sometimes,0,9.1,8,3.8,0.804,42.02,79.4,Good,68.1,Mixed learners
+S1496,Medium,71.1,34.5,2,2,4,55.8,Yes,1,10.1,5,3.1,0.711,13.94,61.9,Medium,68.5,Quiz-focused learners
+S1497,Good,100.0,38.9,7,2,4,50.4,Yes,0,2.5,3,3.1,1.0,12.59,57.5,Low,76.0,Quiz-focused learners
+S1498,Poor,50.2,21.8,2,2,3,32.7,No,5,12.9,2,3.8,0.502,10.91,36.2,Poor,35.0,Mixed learners
+S1499,Very Good,99.9,25.6,7,2,3,48.4,No,4,22.6,7,5.2,0.999,16.12,65.0,Medium,65.1,Last-minute learners
+S1500,Very Good,96.4,31.1,6,3,3,62.7,Yes,3,0.9,3,2.1,0.964,20.9,78.4,Good,70.6,Mixed learners

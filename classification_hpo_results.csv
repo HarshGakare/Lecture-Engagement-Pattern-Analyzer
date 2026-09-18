@@ -1,0 +1,4 @@
+Model,CV_F1,Test_Accuracy,Test_F1,Best_Params
+Logistic Regression,0.769465383,0.78,0.779301156,{'model__C': 10}
+Random Forest,0.800076548,0.77,0.771911236,"{'model__max_depth': None, 'model__min_samples_leaf': 2, 'model__min_samples_split': 5, 'model__n_estimators': 200}"
+Gradient Boosting,0.804390924,0.79,0.789211823,"{'model__learning_rate': 0.05, 'model__max_depth': 2, 'model__n_estimators': 50}"

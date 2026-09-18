@@ -1,0 +1,4 @@
+Model,CV_R2,Test_MAE,Test_RMSE,Test_R2,Best_Params
+Ridge Regression,0.773762485,3.882353817,4.990615749,0.786191524,{'model__alpha': 10}
+Random Forest Regressor,0.707704561,4.335395696,5.541757382,0.736359778,"{'model__max_depth': 10, 'model__min_samples_leaf': 1, 'model__min_samples_split': 2, 'model__n_estimators': 200}"
+Gradient Boosting Regressor,0.727139701,4.344864195,5.63944288,0.726983398,"{'model__learning_rate': 0.1, 'model__max_depth': 2, 'model__n_estimators': 100}"
